@@ -1,0 +1,42 @@
+.menu{
+    background:#080a10;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+    background:#080a10;
+}
+
+.quota{
+    background:;
+}
+.h1{
+    height:120px;
+    width:30px;
+}
+.navbar bg-body-tertiary{
+    background:#88d169;
+}
+.img{
+    background:#88d169;
+}
+.slider{
+    height: 20%;
+    width: auto;
+}
+.h5{
+    color: black;
+}
+.carousel-inner{
+    height: 500px;
+    width: 100%;
+}
+.d-block w-100{
+    height: justify;
+    width: justify;
+}
+.card mb-3{
+    margin-left:15%;
+}
+.p-3 mb-2 bg-dark text-white{
+    margin-left: 5%;
+}
